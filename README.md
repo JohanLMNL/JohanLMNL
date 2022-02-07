@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JohanLMNL
+- 👀 I’m interested in JavaScript, Node.JS & React APP
+- 🌱 I’m currently learning React
